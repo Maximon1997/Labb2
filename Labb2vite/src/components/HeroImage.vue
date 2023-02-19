@@ -1,4 +1,10 @@
-
+<script>
+export default {
+    data(){
+        return {rub: 3}
+    }
+}
+</script>
 
 <template>
     <!-- Hero -->
@@ -6,7 +12,7 @@
       class="hero-image w-100 vh-100 d-flex justify-content-center algin-items-center"
     >
       <div>
-        <h1 class="rubrik">PokéShop</h1>
+        <h1 class="rubrik" :class="{ n: rub}">PokéShop</h1>
       </div>
     </div>
 </template>
@@ -25,6 +31,14 @@
 }
 h1{
     padding-bottom: 40vh;
-    font-size: 4rem;
+    font-size: 6rem;
+}
+.n{
+    color: rgb(9, 9, 9)
+}
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 4rem;
+    }
 }
 </style>

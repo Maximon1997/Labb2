@@ -10,7 +10,7 @@
     </div>
   </div>
 </div>
-<p v-if="totalPrice !== 50">Din varukorgs totala pris: {{ totalPrice }}</p>
+<p v-if="totalPrice !== 50">Din varukorgs totala pris: {{ totalPrice }}</p> <p v-if="totalPrice < 1000">(inc)</p>
 <p v-if="totalPrice < 1000 && totalPrice !== 50">Frakt kostnad 50kr (Du uppnår grattis frakt om {{ this.gratisFrakt }}kr)</p>
 <p v-if="totalPrice > 1000">Du har uppnått grattis frakt</p>
 </template>
@@ -28,7 +28,7 @@
     };
   },methods: {
   köp(item) {
-if(this.totalPrice > 1000 && this.frakt === 50){
+if(this.totalPrice > 1050 && this.frakt === 50){
     this.totalPrice += item.pris;
     this.totalPrice -50
     this.frakt -50

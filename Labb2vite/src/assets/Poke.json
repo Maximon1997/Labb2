@@ -1,0 +1,102 @@
+[
+      {
+        "id": 0,
+        "name": "Sobble",
+        "description": "Water-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH1/SWSH1_EN_54.png",
+        "pris": 19
+      },
+      {
+        "id": 1,
+        "name": "Scatterbug",
+        "description": "Bug-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_6.png"
+        ,
+        "pris": 17
+      },
+      {
+        "id": 2,
+        "name": "Combee",
+        "description": "Bug/Flying-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM8/SM8_EN_31.png"
+        ,
+        "pris": 24
+      },
+      {
+        "id": 3,
+        "name": "Oshawott",
+        "description": "Water-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/XY11/XY11_EN_30.png",
+        "pris": 19
+      },
+      {
+        "id": 4,
+        "name": "Purugly",
+        "description": "Normal-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM5/SM5_EN_109.png",
+        "pris": 30
+      },
+      {
+        "id": 5,
+        "name": "Espeon&Deoxys GX",
+        "description": "Tagteam-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM11/SM11_EN_72.png",
+        "pris": 119
+      },
+      {
+        "id": 6,
+        "name": "Toxapex",
+        "description": "Poison/Water-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH3/SWSH3_EN_52.png",
+        "pris": 43
+      },
+      {
+        "id": 7,
+        "name": "Eneporter",
+        "description": "Trainer",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM6/SM6_EN_106.png",
+        "pris": 9
+      },
+      {
+        "id": 8,
+        "name": "Tyranitar",
+        "description": "Rock/Dark-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH3/SWSH3_EN_88.png",
+        "pris": 79
+      },
+      {
+        "id": 9,
+        "name": "Dhelmise",
+        "description": "Ghost/Grass-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH4/SWSH4_EN_19.png",
+        "pris": 36
+      },
+      {
+        "id": 10,
+        "name": "Meowth",
+        "description": "Normal-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM1/SM1_EN_78.png",
+        "pris": 29
+      },
+      {
+        "id": 11,
+        "name": "Beartic",
+        "description": "Ice-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH3/SWSH3_EN_49.png",
+        "pris": 67
+      },
+      {
+        "id": 12,
+        "name": "Pikachu&Zekrom GX",
+        "description": "Tagteam-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SM9/SM9_EN_33.png",
+        "pris": 299
+      },
+      {
+        "id": 13,
+        "name": "Coalossal",
+        "description": "Rock/Fire-type Pokémon",
+        "bild": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH2/SWSH2_EN_107.png",
+        "pris": 88
+      }
+    ]
